@@ -1,0 +1,15 @@
+.text{
+  color:var(--gray900);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.cardFooter{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardItem{
+  margin-top: 10px;
+  font-weight: bold;
+}
